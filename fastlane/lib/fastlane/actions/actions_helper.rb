@@ -132,7 +132,7 @@ module Fastlane
     end
 
     def self.formerly_bundled_actions
-      ["xcake"]
+      ["xcake", "badge"]
     end
 
     # Returns a boolean indicating whether the class
